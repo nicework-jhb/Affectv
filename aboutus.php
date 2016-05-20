@@ -240,7 +240,7 @@ include('partials/_header.php');
         </div>
       </div>
     </div>
-  </div>
+
   
   <!-- /.row -->
     <div class="row">
@@ -271,7 +271,9 @@ include('partials/_header.php');
       <div class="col-xs-12 col-sm-4 col-sm-4 padded text-center people">
       
       </div>
+        </div>
     </div>
+    
   </div>
   
   
@@ -337,4 +339,4 @@ include('partials/_header.php');
 <?php include('partials/_footer-scripts.html'); ?>
 </body>
 
-</html>>
+</html>>>>
